@@ -1,5 +1,5 @@
 ## hey 🫂
-constantly learning🌱
+constantly learning and willing to collaborate🌱
 ```
          _,=.=,_
        ,'=.     `\___,
