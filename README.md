@@ -1,5 +1,6 @@
 ## Hey 👋
 constantly learning🌱
+```
          _,=.=,_
        ,'=.     `\___,
       /    \  (0     |        __ _
@@ -19,6 +20,7 @@ constantly learning🌱
 ------------------------------------------------
 This ASCII pic can be found at
 https://asciiart.website/art/5979
+```
 <!--
 **FloydGibson/FloydGibson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
