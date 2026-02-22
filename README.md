@@ -1,4 +1,4 @@
-## Hey 👋
+## hey 🫂
 constantly learning🌱
 ```
          _,=.=,_
