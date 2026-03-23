@@ -1,5 +1,6 @@
 ## hey 🫂
-constantly learning and willing to collaborate🌱
+Student of System Engineering Major at University of El Salvador UES
+Constantly learning and willing to collaborate🌱
 ```
          _,=.=,_
        ,'=.     `\___,
